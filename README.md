@@ -1,2 +1,2 @@
 # Computational_mathematics
-Labs in computational mathematics
+Сomputational mathematics lab works.
